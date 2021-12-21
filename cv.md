@@ -15,3 +15,7 @@ I want to learn Front-End Development in RSSchool!
 
 ## Work experience:
 Nothing yet…
+
+
+## Language:
+English level - A2
