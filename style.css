@@ -100,7 +100,7 @@ nav li a {
   border-bottom: 2px solid black;
 }
 #code pre {
-  padding: 20px 0px;
+  padding: 20px 10px 0px;
   font-weight: bold;
   background-color: rgba(222, 184, 135, 0.5);
 }
