@@ -71,39 +71,39 @@ nav li a {
   height: 70px;
   width: 70px;
 }
-.contacts {
+#contacts {
   margin: 20px;
 }
-.contacts a {
+#contacts a {
   text-decoration: none;
   color: black;
 }
-.contacts h4 {
+#contacts h4 {
   margin: 0;
   padding-bottom: 20px;
 }
-.contacts ul {
+#contacts ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-.about {
+#about {
   border-bottom: 2px solid black;
 }
-.skils {
+#skils {
   border-bottom: 2px solid black;
 }
-.education {
+#education {
   border-bottom: 2px solid black;
 }
-.code {
+#code {
   border-bottom: 2px solid black;
 }
-.code pre {
+#code pre {
   padding: 20px 0px;
   font-weight: bold;
   background-color: rgba(222, 184, 135, 0.5);
 }
-.experience {
+#experience {
   border-bottom: 2px solid black;
 }
